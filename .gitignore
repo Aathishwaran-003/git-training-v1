@@ -1,0 +1,21 @@
+/ex3-simplecount.py
+/ex4-function one.py
+/ex5-function two.py
+
+/ex1-forloop.py
+/ex2-dfunction.py
+
+auto-generated -files/file1.txt
+auto-generated -files/file2.txt
+auto-generated -files/file3.txt
+
+/ex6-function three.py
+/ex7-function four.py
+
+we can use above option or below option to ignore files
+
+/*.py
+
+auto-generated -files/*.txt
+
+
