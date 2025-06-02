@@ -6,3 +6,5 @@ def double(n):
     #print(x)
     print("the program ran successfully")
     print("first modifiction for 2nd commit")
+    #--------------------------------------------#
+    print("Added this line from the github website")
