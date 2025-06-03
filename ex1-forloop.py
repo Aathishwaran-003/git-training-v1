@@ -10,5 +10,7 @@ def count-to-n(x=n):
         print("first modifiction of 2nd commit")
         #---------------------------------------#
         print("Add this line from the tech developers")
-#-------------------------------------------------------#
-       print("Added first line from techteam1 on github")
+      #--------------------------------------------------#
+       print("Added 1st line from techteam1 on github")
+      #--------------------------------------------------#
+       print("Added 2nd line from techteam1 on github")
